@@ -1,15 +1,60 @@
-body{
+body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
-header{
-    height: 65px;
-    background-color: #7b1fa2;
-    color: white;
+.header{
+    background-color: #4a88eb;
     display: flex;
+    justify-content: flex-start;
     align-items: center;
-    padding-left: 25px;
+    height: 45px;
+    padding: 5px 20px;
+    color: white;
 }
+.headerBarra{
+    color: white;
+}
+.header .nav-links {
+    list-style: none;
+}
+.nav-links li {
+    display: inline-block;
+    padding: 0 20px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    margin-left: auto;
+}
+.nav-links li:hover {
+   transform: scale(1.3);
+}
+.nav-links a{
+    font-size: 15px;
+    color:white;
+    text-decoration: none;
+}
+.nav-links li a:hover {
+    color: black;
+}
+
+.btn{
+    margin-left: auto;
+}
+ .btn button{
+     font-weight: 700;
+     color: black;
+     padding: 9px 25px;
+     background: white;
+     border: none;
+     border-radius: 50px;
+     cursor: pointer;
+     transition: all 0.3s ease 0s;
+     margin-left: auto;
+ }
+ .btn button:hover {
+    background-color: black;
+    color: white;
+    transform: scale(1.2);
+ }
 .cara{
     border-radius: 500px;
     height: 200px;
@@ -19,10 +64,11 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    height: calc(100vh - 65px);
+    height: calc(100vh - 45px);
     background-color: #303030;
     color: white;
-    /* padding-top: 10%; */
+    padding-top: 3%;
+    height: 750px;
 }
 .caja-central{
     margin-top: 10%;
@@ -52,7 +98,7 @@ header{
 
 .dos{
     background-color: #F2F2F2;
-    height: 700px;
+    height: 850px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -60,6 +106,7 @@ header{
     color: #303030;
     padding-left: 20%;
     padding-right: 20%;
+    text-align:justify;
 }
 .aptitudes{
     width: 50%;
@@ -69,7 +116,9 @@ header{
     justify-content: space-between;
     padding-top: 10px;
 }
-
+.cursos a{
+    text-decoration: none;
+}
 .tech{
     height: 90px;
 }
