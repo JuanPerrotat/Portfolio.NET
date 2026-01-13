@@ -33,13 +33,13 @@ body {
     text-decoration: none;
 }
 .nav-links li a:hover {
-    color: black;
+    color: #b5b35d;
 }
 
 .btn{
     margin-left: auto;
 }
- .btn button{
+ .btn{
      font-weight: 700;
      color: black;
      padding: 9px 25px;
@@ -49,8 +49,9 @@ body {
      cursor: pointer;
      transition: all 0.3s ease 0s;
      margin-left: auto;
+     text-decoration:none;
  }
- .btn button:hover {
+ .btn:hover {
     background-color: black;
     color: white;
     transform: scale(1.2);
@@ -67,8 +68,7 @@ body {
     height: calc(100vh - 45px);
     background-color: #303030;
     color: white;
-    padding-top: 3%;
-    height: 750px;
+    height: 650px;
 }
 .caja-central{
     margin-top: 10%;
@@ -94,11 +94,11 @@ body {
     background-color: #F2F2F2;
     color: #303030;
     padding: 10px;
+    text-align:justify;
 }
-
 .dos{
     background-color: #F2F2F2;
-    height: 850px;
+    height: 1050px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -116,13 +116,21 @@ body {
     justify-content: space-between;
     padding-top: 10px;
 }
+.cursos{
+    font-size:large;
+}
 .cursos a{
     text-decoration: none;
+}
+.cursos a:visited{
+    color: blueviolet;
+}
+.cursos a:hover{
+    color:red;
 }
 .tech{
     height: 90px;
 }
-
 .tres{
     background-color: #303030;
     height: 600px;
@@ -133,19 +141,25 @@ body {
     color: #F2F2F2;
 }
 .proyectos{
-    width: 60%;
+    width: 95%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 40px;
 }
 .card{
     text-align: center;
-    width: 30%;
+    width: 420px;
+    max-width: 100%;
     border: solid #F2F2F2 1px;
     border-radius: 10px;
     padding: 10px;
+    text-align: center;
 }
 .card img{
     width: 100%;
+}
+.card a:hover {
+    color: #4a88eb;
 }
 .card a, footer a {
     color: white;
@@ -171,6 +185,45 @@ footer{
     display: flex;
     justify-content: center;
 }
+.cuatro{
+    background-color: #303030;
+    height: 450px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+    color: #F2F2F2;
+}
+.formulario{
+    color: white;
+    width: fit-content;
+    max-width: 500px;
+    text-align: justify; 
+    align-content: center;
+}
+.formulario > div {
+    gap: 6px;
+    margin-bottom: 25px;
+}
+.formulario input{
+    border-radius: 600px;
+}
+.formulario textarea{
+    border-radius: 550px;
+}
+.formulario button {
+    background-color: #4a88eb;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 7px 25px;
+    cursor: pointer;
+    margin-top:10px;
+}
+    .formulario button:hover {
+        background-color: #2f6fd6;
+    }
+    
 
 @media (max-width: 1000px) {
     .caja-central{

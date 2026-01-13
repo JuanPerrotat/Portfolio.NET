@@ -8,10 +8,10 @@
     <link rel="icon" href="images/portfolio.ico">
     <title>Juan Perrotat | Portfolio</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <%--<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>--%>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap" rel="stylesheet">
-    
     <link href="~/content/estilos.css" rel="stylesheet" />
+    <script src="Scripts/funciones.js"></script>
     <asp:ContentPlaceHolder ID="head" runat="server">   
     </asp:ContentPlaceHolder>
 </head>
@@ -30,26 +30,22 @@
                         <li><a href="Contacto.aspx">Contacto</a></li>
                     </ul>
                  </nav>
-                 <a href="https://drive.google.com/file/d/1iRv6dOZf6XVk0nkkiocW7tAnsa1TOpd2/view?usp=sharing" class="btn"><button>Descargar CV</button></a> 
+                 <a href="https://drive.google.com/file/d/1iRv6dOZf6XVk0nkkiocW7tAnsa1TOpd2/view?usp=sharing" class="btn">Ver CV</a> 
               </header>
             
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
             <footer>
-                <h2>Contactame</h2>
-                    <div class="contacto">
-                        <a href="https://www.linkedin.com/in/msarfernandez/" target="_blank">
-                            <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" class="red-social" alt="">
-                        </a>
-                    <hr>
-                         <a href="https://instagram.com/maxiprograma/" target="_blank">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" class="red-social" alt="">
-                         </a>
-                    <hr>
-                         <a href="#" target="_blank">
-                            <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" class="red-social" alt="">
-                          </a>
-                    </div>
+                    <h2>Mis redes</h2>
+                        <div class="contacto">
+                                <a href="https://www.linkedin.com/in/juan-perrotat/" target="_blank">
+                                <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" class="red-social" alt="">
+                                </a>
+                            <hr />
+                                <a href="https://github.com/JuanPerrotat" target="_blank">
+                                <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png" class="red-social" alt="">
+                                </a>
+                        </div>
                         <p>&copy; <%: DateTime.Now.Year %> - Juan Perrotat | Hecho con ayuda de <a href="https://maxiprograma.com" target="_blank">Maxi Programa</a></p>
              </footer>
         </div>

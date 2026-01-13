@@ -75,7 +75,9 @@
     <Content Include="images\foto.jfif" />
     <Content Include="images\portfolio.ico" />
     <Content Include="images\Principal.jpg" />
+    <Content Include="images\Web.png" />
     <Content Include="Proyectos.aspx" />
+    <Content Include="Scripts\funciones.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -133,9 +135,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Scripts\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
