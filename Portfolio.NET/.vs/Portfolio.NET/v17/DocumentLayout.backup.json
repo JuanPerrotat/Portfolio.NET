@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\portfolio\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\portfolio\\acercademi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\acercademi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|c:\\users\\juanp\\onedrive\\documentos\\repos github\\c# nivel 3\\portfolio.net\\portfolio.net\\portfolio\\scripts\\funciones.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\scripts\\funciones.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -15,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\contacto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\portfolio\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\portfolio\\content\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\content\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\portfolio\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\portfolio\\acercademi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{0379BC2D-1C63-4A24-BFA7-16E622B82078}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\acercademi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Contacto.aspx.cs",
               "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\Portfolio\\Contacto.aspx.cs",
               "RelativeDocumentMoniker": "Portfolio\\Contacto.aspx.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "funciones.js",
               "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\Portfolio\\Scripts\\funciones.js",
               "RelativeDocumentMoniker": "Portfolio\\Scripts\\funciones.js",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Contacto.aspx",
               "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\Portfolio\\Contacto.aspx",
               "RelativeDocumentMoniker": "Portfolio\\Contacto.aspx",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "estilos.css",
               "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\Portfolio\\content\\estilos.css",
               "RelativeDocumentMoniker": "Portfolio\\content\\estilos.css",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Proyectos.aspx",
               "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\Portfolio\\Proyectos.aspx",
               "RelativeDocumentMoniker": "Portfolio\\Proyectos.aspx",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "AcercaDeMi.aspx",
               "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\Portfolio\\AcercaDeMi.aspx",
               "RelativeDocumentMoniker": "Portfolio\\AcercaDeMi.aspx",
@@ -119,11 +119,12 @@
               "RelativeToolTip": "Portfolio\\AcercaDeMi.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-01-08T03:33:35.732Z"
+              "WhenOpened": "2026-01-08T03:33:35.732Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MiMaster.Master",
               "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\Portfolio\\MiMaster.Master",
               "RelativeDocumentMoniker": "Portfolio\\MiMaster.Master",
@@ -136,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documentos\\Repos GitHub\\C# Nivel 3\\Portfolio.NET\\Portfolio.NET\\Portfolio\\Default.aspx",
               "RelativeDocumentMoniker": "Portfolio\\Default.aspx",

@@ -68,7 +68,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AcercaDeMi.aspx" />
-    <Content Include="Aptitudes.aspx" />
     <Content Include="Contacto.aspx" />
     <Content Include="content\estilos.css" />
     <Content Include="Default.aspx" />
@@ -87,13 +86,6 @@
     </Compile>
     <Compile Include="AcercaDeMi.aspx.designer.cs">
       <DependentUpon>AcercaDeMi.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Aptitudes.aspx.cs">
-      <DependentUpon>Aptitudes.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Aptitudes.aspx.designer.cs">
-      <DependentUpon>Aptitudes.aspx</DependentUpon>
     </Compile>
     <Compile Include="Contacto.aspx.cs">
       <DependentUpon>Contacto.aspx</DependentUpon>
