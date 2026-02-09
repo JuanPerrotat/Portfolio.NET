@@ -5,14 +5,17 @@ body {
 .header{
     background-color: #4a88eb;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
-    height: 45px;
+    height: 60px;
     padding: 5px 20px;
     color: white;
+   
+   
 }
 .headerBarra{
-    color: white;
+   color: white;
+   
 }
 .header .nav-links {
     list-style: none;
@@ -23,6 +26,7 @@ body {
     cursor: pointer;
     transition: all 0.3s ease 0s;
     margin-left: auto;
+    margin-top: 15px;
 }
 .nav-links li:hover {
    transform: scale(1.3);
@@ -36,9 +40,6 @@ body {
     color: #b5b35d;
 }
 
-.btn{
-    margin-left: auto;
-}
  .btn{
      font-weight: 700;
      color: black;
@@ -145,6 +146,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 40px;
+    margin-top: 35px;
 }
 .card{
     text-align: center;
@@ -159,10 +161,11 @@ body {
     width: 100%;
 }
 .card a:hover {
-    color: #4a88eb;
+    color: #a03939;
 }
 .card a, footer a {
-    color: white;
+    color: black;
+    text-decoration: none;
 }
 
 .red-social{
@@ -184,6 +187,11 @@ footer{
     width: 30%;
     display: flex;
     justify-content: center;
+    gap: 15px;
+}
+.copy{
+    color: white;
+    text-decoration:underline;
 }
 .cuatro{
     background-color: #303030;

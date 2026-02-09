@@ -42,7 +42,7 @@
     <ul class="cursos">
        <li>Fundamentos de la Programación [Nivel Universitario] 👉 <a href="https://drive.google.com/file/d/1NJY0-ziHq5cP59BBF0TJPcE_1Q3XOgke/view?usp=drive_link">Ver certificado</a></li>
        <li>C# Nivel 1 [Desde Cero] 👉 <a href="https://drive.google.com/file/d/1f71bgTdMWr-PKweOyPLmPXqtmbbEB7UN/view?usp=drive_link">Ver certificado</a></li> 
-       <li>C# Nivel 2 [POO + .NET + SQL] 👉 Certificado en confección</li>
+       <li>C# Nivel 2 [POO + .NET + SQL] 👉 <a href="https://drive.google.com/file/d/10eE748Ooyrs6MnYxXZQ4PwItIoS8U2z6/view?usp=drive_link">Ver certificado</a></li>
        <li>C# Nivel 3: Web ASP .NET 👉 En curso</li>
        <li>Introducción a HTML y CSS 👉 <a href="https://todocodeacademy.com/certificate/certificado-html-y-css-tz7/">Ver certificado</a></li>
     </ul>
